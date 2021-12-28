@@ -12,3 +12,5 @@ This repo contains the data and code used for the analysis for the coursework.
 |economic-inactivity.csv |Economic inactivity |https://data.london.gov.uk/dataset/economic-inactivity-gender| 27 Dec 2021 |
 |employment-by-occ-and-gender |Employment by occupation and gender |https://data.london.gov.uk/dataset/employment-occupation-type-and-gender-borough |27 Dec 2021 |
 |london-borough-profiles.csv |Age profile (2015), employment rate (2015), % greenspace (2005) |https://data.london.gov.uk/dataset/london-borough-profiles |27 Dec 2021 |
+|LSD21 APS - Physical Activity Levels.xlsx |Physical activity level by boroughs |https://data.londonsport.org/dataset/e53dn/physical-activity-levels-by-borough |27 Dec 2021 |
+|LAEI2016 - LLAQM - NO2 Annual Mean Key Stats by Borough.xlsx |Proportion of population exceeding NO2 level |https://data.london.gov.uk/dataset/laei-2016---borough-air-quality-data-for-llaqm |27 Dec 2021 |

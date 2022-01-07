@@ -16,3 +16,4 @@ This repo contains the data and code used for the analysis for the coursework.
 |LAEI2016 - LLAQM - NO2 Annual Mean Key Stats by Borough.xlsx |Proportion of population exceeding NO2 level in 2016 |https://data.london.gov.uk/dataset/laei-2016---borough-air-quality-data-for-llaqm |27 Dec 2021 |
 |NO2_ AnnualMean_2013_PopulationData.xlsx |Proportion of population exceeding NO2 level in 2013 |https://data.london.gov.uk/dataset/llaqm-bespoke-borough-by-borough-air-quality-modelling-and-data |5 Jan 2022 |
 |mb-unemployment-rates.xlsx |Unemployment rate by borough |https://data.london.gov.uk/dataset/model-based-unemployment-estimates |5 Jan 2022 |
+|land-use-glud-borough.xls |Land use data |https://data.london.gov.uk/dataset/land-use-ward?resource=65301e5a-c593-414b-998f-a805a1366ecf |6 Jan 2022 |
